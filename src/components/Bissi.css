@@ -1,3 +1,14 @@
 .bissi {
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%, 0); 
     text-align: center;
 }    
+
+/* .container {
+    display: flex;
+} */
+
+.winner {
+    margin-left: 10%;
+}
